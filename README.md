@@ -15,6 +15,5 @@ Welcome to my portfolio! I am a passionate **AI & Machine Learning** student at 
 
 ## 📬 Connect With Me  
 - **LinkedIn:** [Hemil Parmar](https://www.linkedin.com/in/hemil-parmar-4b0541343/)  
-- **GitHub:** [hemilparmar19](https://github.com/hemilparmar19)  
 
 🔹 *Always open to collaborations and learning opportunities!* 🚀
