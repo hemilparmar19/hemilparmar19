@@ -10,7 +10,7 @@ Welcome to my portfolio! I am a passionate **AI & Machine Learning** student at 
 
 ## 🛠️ Skills & Tech Stack  
 - **Programming:** Python, C++, Java
-- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, , NLP tools (NLTK, Hugging Face)  
+- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, OpenCV
 - **Data Science & Databases:** Pandas, NumPy, Matplotlib, Seaborn, MySQL 
 
 ## 📬 Connect With Me  
